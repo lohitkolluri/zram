@@ -1,7 +1,7 @@
 # Zram
 
 Download the script and copy to /usr/bin/ folder
-> sudo wget -O /usr/bin/zram.sh https://raw.githubusercontent.com/ALAS/zram/master/zram.sh
+> sudo wget -O /usr/bin/zram.sh https://raw.githubusercontent.com/lohitkolluri/zram/master/zram.sh
 
 Making The File Executable
 > sudo chmod +x /usr/bin/zram.sh
